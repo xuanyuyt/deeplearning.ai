@@ -3,6 +3,6 @@ _site/
 .jekyll-metadata
 .ipynb_checkpoints/
 
-data/
 *.pyc
-*.h5
+
+
